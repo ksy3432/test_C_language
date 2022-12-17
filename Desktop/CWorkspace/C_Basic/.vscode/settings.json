@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "cmath": "c",
+        "string.h": "c",
+        "str_eq.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
